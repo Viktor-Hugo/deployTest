@@ -3,6 +3,8 @@ Brotli==1.1.0
 certifi==2023.7.22
 cffi==1.15.1
 charset-normalizer==3.2.0
+click==8.1.7
+colorama==0.4.6
 cryptography==41.0.3
 defusedxml==0.7.1
 dj-rest-auth==5.0.2
@@ -11,6 +13,7 @@ django-allauth==0.59.0
 django-cors-headers==4.3.1
 djangorestframework==3.14.0
 gunicorn==22.0.0
+h11==0.14.0
 idna==3.4
 numpy==1.26.4
 oauthlib==3.2.2
@@ -25,5 +28,6 @@ sqlparse==0.4.4
 typing_extensions==4.7.1
 tzdata==2023.3
 urllib3==2.0.4
+uvicorn==0.29.0
 waitress==3.0.0
 whitenoise==6.6.0
