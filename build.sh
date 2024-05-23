@@ -11,4 +11,4 @@ python manage.py collectstatic --no-input
 # Apply any outstanding database migrations
 python manage.py migrate
 
-python manage.py loaddata movies.json movies/people.json movies/movie_data.json
+python manage.py loaddata movies/movies.json movies/people.json movies/movie_data.json users/users.json

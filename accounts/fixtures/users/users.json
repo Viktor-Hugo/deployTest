@@ -1,0 +1,172 @@
+[
+  {
+    "model": "accounts.user",
+    "pk": 1,
+    "fields": {
+      "password": "pbkdf2_sha256$600000$fnYQC71IHpMPRcy8FjYU4y$ieUu+2y6xsV8Crel5wX7uLKld4ATMLZqc/D7fer19nw=",
+      "last_login": "2024-05-22T06:31:17.479Z",
+      "is_superuser": false,
+      "username": "test100",
+      "first_name": "",
+      "last_name": "",
+      "email": "",
+      "is_staff": false,
+      "is_active": true,
+      "date_joined": "2024-05-21T02:23:11.195Z",
+      "nickname": "rkefasfd",
+      "lovepoint": 0,
+      "groups": [],
+      "user_permissions": [],
+      "followings": [],
+      "like_movie": [
+        24,
+        80,
+        118,
+        142,
+        423
+      ],
+      "like_genre": [
+        14,
+        16,
+        35,
+        36,
+        37,
+        53,
+        80,
+        878
+      ]
+    }
+  },
+  {
+    "model": "accounts.user",
+    "pk": 2,
+    "fields": {
+      "password": "pbkdf2_sha256$600000$WJ2HFsFthz30X7pXgqCPmB$Fs5hQMaRbRhwbOxzAuXQJrKJsmHL6KnnEYIlyQpd0Uc=",
+      "last_login": "2024-05-21T06:49:23.734Z",
+      "is_superuser": false,
+      "username": "test3",
+      "first_name": "",
+      "last_name": "",
+      "email": "",
+      "is_staff": false,
+      "is_active": true,
+      "date_joined": "2024-05-21T06:27:01.864Z",
+      "nickname": "sdfasdf",
+      "lovepoint": 0,
+      "groups": [],
+      "user_permissions": [],
+      "followings": [],
+      "like_movie": [
+        24
+      ],
+      "like_genre": []
+    }
+  },
+  {
+    "model": "accounts.user",
+    "pk": 3,
+    "fields": {
+      "password": "pbkdf2_sha256$600000$OFOn0RNV1ZQ05ThWeExRfq$qve+1Gyq6Rhh7a9XCP0AR+bAXXfHnr9ggQDgmJp4fU0=",
+      "last_login": "2024-05-21T08:42:13.963Z",
+      "is_superuser": false,
+      "username": "test10",
+      "first_name": "",
+      "last_name": "",
+      "email": "",
+      "is_staff": false,
+      "is_active": true,
+      "date_joined": "2024-05-21T08:42:13.284Z",
+      "nickname": "asdasd",
+      "lovepoint": 0,
+      "groups": [],
+      "user_permissions": [],
+      "followings": [],
+      "like_movie": [
+        24
+      ],
+      "like_genre": [
+        16,
+        27,
+        36
+      ]
+    }
+  },
+  {
+    "model": "accounts.user",
+    "pk": 4,
+    "fields": {
+      "password": "pbkdf2_sha256$600000$osgVIkoCVv6EPH246ZU4Ux$9UsyzYiHiBqj9ENkWHiyFdikfAGrvxtc5lfw9yrF9do=",
+      "last_login": "2024-05-22T01:23:03.928Z",
+      "is_superuser": false,
+      "username": "test99",
+      "first_name": "",
+      "last_name": "",
+      "email": "",
+      "is_staff": false,
+      "is_active": true,
+      "date_joined": "2024-05-22T01:23:03.197Z",
+      "nickname": "�׽�Ʈ",
+      "lovepoint": 0,
+      "groups": [],
+      "user_permissions": [],
+      "followings": [],
+      "like_movie": [],
+      "like_genre": [
+        14,
+        16,
+        18
+      ]
+    }
+  },
+  {
+    "model": "accounts.user",
+    "pk": 5,
+    "fields": {
+      "password": "pbkdf2_sha256$600000$3iuJ0mwd9plnNiigqFRefc$EEXYEPE/Sjc/7YqZuvlPEWIh6/3oPd/RkZGfluWi2FY=",
+      "last_login": "2024-05-22T01:26:36.643Z",
+      "is_superuser": false,
+      "username": "test50",
+      "first_name": "",
+      "last_name": "",
+      "email": "",
+      "is_staff": false,
+      "is_active": true,
+      "date_joined": "2024-05-22T01:26:35.993Z",
+      "nickname": "�׽�Ʈ�г���",
+      "lovepoint": 0,
+      "groups": [],
+      "user_permissions": [],
+      "followings": [],
+      "like_movie": [],
+      "like_genre": [
+        14,
+        16,
+        18,
+        27
+      ]
+    }
+  },
+  {
+    "model": "accounts.user",
+    "pk": 7,
+    "fields": {
+      "password": "pbkdf2_sha256$600000$xE8U37VUeg5wMRF5daDOjt$wmgzBu91qy99Fy90THShO7ymxDj7Kpk0ks8SG92ZrmY=",
+      "last_login": "2024-05-23T01:48:56.835Z",
+      "is_superuser": true,
+      "username": "admin",
+      "first_name": "",
+      "last_name": "",
+      "email": "",
+      "is_staff": true,
+      "is_active": true,
+      "date_joined": "2024-05-23T01:48:37.331Z",
+      "nickname": "",
+      "lovepoint": 0,
+      "groups": [],
+      "user_permissions": [],
+      "followings": [],
+      "like_movie": [],
+      "like_genre": []
+    }
+  }
+]
